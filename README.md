@@ -1,2 +1,2 @@
 # Powerbi-Report
-This repository contains filess for my Data Visualization projects and reports created using Power BI.
+This repository contains file for my Data Visualization report created using Power BI.
